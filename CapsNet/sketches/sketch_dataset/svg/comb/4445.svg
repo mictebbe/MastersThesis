@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 800 800" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2433">
+<g transform="translate(87.52,311.9265) scale(2.413) translate(-68,-236)">
+<path id="0" d="M68 293 C68 293 66.8801 254.6468 68 243 C68.0556 242.4221 70.6606 241.0291 73 241 C182.8781 239.6322 193.7221 242.2693 309 240 C317.8301 239.8262 326.9629 235.8826 327 236 C328.3426 240.2516 327 297 327 297 "/>
+<path id="1" d="M75 247 L76 292 "/>
+<path id="2" d="M83 241 L83 295 "/>
+<path id="3" d="M92 247 L92 296 "/>
+<path id="4" d="M100 245 C100 245 102.7264 249.1697 103 253 C104.1324 268.8539 103 287 103 287 "/>
+<path id="5" d="M112 243 C112 243 113.9037 245.6416 114 248 C114.8335 268.4206 114 292 114 292 "/>
+<path id="6" d="M121 243 L123 293 "/>
+<path id="7" d="M131 246 L133 291 "/>
+<path id="8" d="M144 243 L144 292 "/>
+<path id="9" d="M155 243 L155 289 "/>
+<path id="10" d="M167 244 L167 291 "/>
+<path id="11" d="M178 242 L178 289 "/>
+<path id="12" d="M192 243 L192 288 "/>
+<path id="13" d="M206 246 L206 289 "/>
+<path id="14" d="M221 247 L221 297 "/>
+<path id="15" d="M233 237 L235 297 "/>
+<path id="16" d="M245 243 L240 294 "/>
+<path id="17" d="M260 241 L260 297 "/>
+<path id="18" d="M268 246 L269 297 "/>
+<path id="19" d="M285 246 L292 309 "/>
+<path id="20" d="M307 246 C307 246 306.6422 259.237 308 272 C309.1143 282.4746 312 293 312 293 "/>
+<path id="21" d="M318 243 L320 291 "/>
+<path id="22" d="M295 243 L301 300 "/>
+<path id="23" d="M276 247 L278 293 "/>
+<path id="24" d="M254 248 L254 293 "/>
+<path id="25" d="M216 245 L215 281 "/>
+</g>
+</g>
+</svg>

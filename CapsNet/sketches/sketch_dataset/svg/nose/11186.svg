@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 800 800" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.56164">
+<g transform="translate(189.0092,87.52) scale(5.3415) translate(-237,-157)">
+<path id="0" d="M296 175 C296 175 265.9524 218.146 242 249 C240.7847 250.5655 237 251 237 251 "/>
+<path id="1" d="M239 254 C239 254 236.0003 262.8895 237 265 C238.3137 267.7735 242.9523 271.9905 248 273 C261.701 275.7402 282 274 282 274 "/>
+<path id="2" d="M275 268 C275 268 275.7153 264.0475 276 264 C278.8756 263.5207 293 265 293 265 "/>
+<path id="3" d="M305 247 C305 247 310.6059 246.1129 312 247 C313.6838 248.0715 315.3456 250.7278 316 254 C317.0907 259.4536 317.3286 264.4904 316 267 C315.1042 268.692 307 271 307 271 "/>
+<path id="4" d="M295 157 C295 157 298.8649 157.5947 299 158 C299.6369 159.9106 299.467 166.198 299 169 C298.9434 169.3396 297 170 297 170 "/>
+</g>
+</g>
+</svg>

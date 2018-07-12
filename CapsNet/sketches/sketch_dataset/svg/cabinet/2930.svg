@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 800 800" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1713">
+<g transform="translate(87.52,214.3049) scale(2.5613) translate(-133,-171)">
+<path id="0" d="M158 173 L376 171 "/>
+<path id="1" d="M159 174 L160 305 "/>
+<path id="2" d="M375 171 L375 302 "/>
+<path id="3" d="M159 306 L377 304 "/>
+<path id="4" d="M158 174 L134 191 "/>
+<path id="5" d="M160 306 L139 288 "/>
+<path id="6" d="M134 192 L134 283 "/>
+<path id="7" d="M140 289 L133 281 "/>
+<path id="8" d="M161 197 L374 197 "/>
+<path id="9" d="M161 223 C161 223 268.9717 223.9305 369 223 C372.3753 222.9686 376 221 376 221 "/>
+<path id="10" d="M161 248 L374 248 "/>
+<path id="11" d="M208 305 L208 250 "/>
+<path id="12" d="M261 307 L261 249 "/>
+<path id="13" d="M322 304 L323 249 "/>
+<path id="14" d="M274 172 L274 197 "/>
+<path id="15" d="M316 184 L339 184 "/>
+<path id="16" d="M204 184 L231 184 "/>
+<path id="17" d="M220 199 L220 223 "/>
+<path id="18" d="M306 197 L306 224 "/>
+<path id="19" d="M186 199 L186 224 "/>
+<path id="20" d="M192 212 L192 209 "/>
+<path id="21" d="M180 210 L180 207 "/>
+<path id="22" d="M259 198 L259 225 "/>
+<path id="23" d="M264 211 L264 207 "/>
+<path id="24" d="M254 215 L254 212 "/>
+<path id="25" d="M339 196 L339 223 "/>
+<path id="26" d="M346 213 L346 208 "/>
+<path id="27" d="M335 211 L335 208 "/>
+<path id="28" d="M266 248 L266 222 "/>
+<path id="29" d="M315 236 L331 236 "/>
+<path id="30" d="M201 237 L215 237 "/>
+<path id="31" d="M217 278 L217 270 "/>
+<path id="32" d="M202 279 L202 269 "/>
+<path id="33" d="M332 280 L332 272 "/>
+<path id="34" d="M313 279 L313 272 "/>
+<path id="35" d="M173 307 L173 315 "/>
+<path id="36" d="M185 307 C185 307 185.5594 315.4965 185 316 C184.3094 316.6215 175 316 175 316 "/>
+<path id="37" d="M349 305 C349 305 348.4375 313.4375 349 314 C349.5625 314.5625 357.4375 314.5625 358 314 C358.5625 313.4375 358 305 358 305 "/>
+</g>
+</g>
+</svg>

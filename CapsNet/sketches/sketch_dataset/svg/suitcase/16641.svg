@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 800 800" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.99846">
+<g transform="translate(87.52,134.0915) scale(3.0046) translate(-185,-118)">
+<path id="0" d="M185 131 L186 291 "/>
+<path id="1" d="M186 135 L387 135 "/>
+<path id="2" d="M188 292 L393 293 "/>
+<path id="3" d="M389 135 L389 295 "/>
+<path id="4" d="M251 126 L251 118 "/>
+<path id="5" d="M251 123 L251 137 "/>
+<path id="6" d="M253 119 L299 119 "/>
+<path id="7" d="M298 120 L298 134 "/>
+<path id="8" d="M194 142 L193 279 "/>
+<path id="9" d="M196 146 L376 146 "/>
+<path id="10" d="M194 283 L384 284 "/>
+<path id="11" d="M377 148 C377 148 375.0134 204.5667 377 259 C377.4686 271.8396 382 285 382 285 "/>
+<path id="12" d="M376 260 L376 280 "/>
+<path id="13" d="M253 135 C253 135 252.2602 129.7125 253 127 C253.3531 125.7054 254.8243 124.098 256 124 C267.9382 123.0051 274.2391 123.2021 289 124 C290.8376 124.0993 292.7095 125.2012 293 126 C293.7567 128.0811 293 135 293 135 "/>
+</g>
+</g>
+</svg>
